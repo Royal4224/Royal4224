@@ -1,4 +1,4 @@
-I'm Roy Wang, a second-year undergrad at the University of Wiscosin - Madison!
+I'm Roy Wang, a first-year Master's student in the Applied Mathematics and Computational Science graduate program at UPenn.
 
 <!---
 Royal4224/Royal4224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
